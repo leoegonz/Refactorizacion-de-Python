@@ -1,0 +1,3 @@
+punto: 1 comentario: muy feo 
+punto: 3 comentario: muy feo pero honesto 
+punto: 5 comentario: Codigo perfecto 
